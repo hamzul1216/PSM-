@@ -7,10 +7,10 @@ A simple TypeScript-based implementation of Price Sensitivity Measurement (PSM),
 ## Features
 - Reads CSV input files containing consumer price survey data.
 - Implements PSM analysis to identify key price sensitivity metrics:
-- Highest Price: The maximum price consumers are willing to pay before considering it too expensive.
-- Compromise Price: The price point where "too cheap" and "too expensive" rates intersect.
-- Ideal Price: The price point with the optimal balance between consumer affordability and perceived quality.
-- Minimum Quality Price: The lowest price point at which product quality is not doubted.
+  - Highest Price: The maximum price consumers are willing to pay before considering it too expensive.
+  - Compromise Price: The price point where "too cheap" and "too expensive" rates intersect.
+  - Ideal Price: The price point with the optimal balance between consumer affordability and perceived quality.
+  - Minimum Quality Price: The lowest price point at which product quality is not doubted.
 
 ## How to Run
 
