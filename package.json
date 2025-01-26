@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "papaparse": "^5.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.10",
+    "@types/papaparse": "^5.3.15"
+  }
+}
